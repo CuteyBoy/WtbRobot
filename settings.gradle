@@ -1,0 +1,3 @@
+rootProject.name = "WtbRobot"
+include ':app'
+include ':hook_lib'
